@@ -126,7 +126,7 @@ function appendChannel(index, name) {
         </div>
         <div class="range-control">
             <label>PAN</label>
-            <input type="range" id="panner-${index}" class="control-panner" list="pan-vals-${index}" min="-10" max="10" value="0" step="0.01" data-action="panner" />
+            <input type="range" id="panner-${index}" class="control-panner" list="pan-vals-${index}" min="-3" max="3" value="0" step="0.01" data-action="panner" />
             <datalist id="pan-vals-${index}">
                 <option value="-1" label="left"></option>
                 <option value="1" label="right"></option>
