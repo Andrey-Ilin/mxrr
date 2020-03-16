@@ -1,12 +1,12 @@
 console.clear();
 
 const fileUrls = [
-  '../audio_files/Bedtime_1.mp3',
-  '../audio_files/Bedtime_2.mp3',
-  '../audio_files/Bedtime_3.mp3',
-  '../audio_files/Bedtime_4.mp3',
-  '../audio_files/Bedtime_5.mp3',
-  '../audio_files/Bedtime_6.mp3',
+  '../mxrr/audio_files/Bedtime_1.mp3',
+  '../mxrr/audio_files/Bedtime_2.mp3',
+  '../mxrr/audio_files/Bedtime_3.mp3',
+  '../mxrr/audio_files/Bedtime_4.mp3',
+  '../mxrr/audio_files/Bedtime_5.mp3',
+  '../mxrr/audio_files/Bedtime_6.mp3',
   // '../audio_files/Bedtime_7.mp3',
   // '../audio_files/Bedtime_8.mp3',
   // '../audio_files/Bedtime_9.mp3',
